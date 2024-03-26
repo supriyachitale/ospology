@@ -32,7 +32,7 @@ open a Pull Request (PR) at any time to add their names to the list if they have
 * Shane Coughlan
 * Shilla Saebi
 * Stephanie Lieggi
-* Supriya Ashish Chitale
+* Supriya Chitale
 * Takanori Suzuki
 * Ulises Gascon
 * Victor Lu
